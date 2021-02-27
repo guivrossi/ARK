@@ -1,6 +1,6 @@
 # Asyng Price Data Load with aiohttp adn asyncpg
 
-Track stocks via API connection and use SQL to store your db and python to run the scripts.
+Project to track stocks via an API connection and use SQL to quickly query your db and python to run the scripts.
 
 ## Python and PostGreSQL and TimescaleDB set up
 
