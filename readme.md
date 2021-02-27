@@ -1,6 +1,7 @@
-# FINANCE PROJECT
+# Asyng Price Data Load with aiohttp adn asyncpg
 
-Track stocks using API connections with Python and SQL.
+Track stocks via API connection and use SQL to store your db and python to run the scripts.
 
-Credits to: __hackingthemarket__    
+## Python and PostGreSQL and TimescaleDB set up
 
+credits: __hackingthemarkets__
